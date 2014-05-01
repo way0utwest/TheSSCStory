@@ -1,0 +1,117 @@
+Chapter 13 - The Sale
+
+I remember I was working at Peoplesoft in early 2004 and hating it. It wasn't a great company and I kept thinking I needed a new job. At the time we were doing well at SQLServerCentral.com, but not really well enough to support one of us. I tried calculating everything out and unless I could get a good portion of the sales, maybe $100k annually, I couldn't get enough of a salary and commision to make it work. With Brian doing most of our selling, I figured he'd be the guy to work fulltime.
+
+Much to my surprise, Brian closed a big deal with Imceda a few months later and all of a sudden we had the cash to support someone. Since I was the cheapest, I got the job and one of my first actions was fielding an inquiry from TechTarget about purchasing us.
+
+They were a hot new media company, growing fast by buying up a lot of small sites. LabMice was one of them and I was familar with them, having gone over there for various Windows related answers at times. So I answered the email we'd been sent and setup a conference call.
+
+First call I remember walking around the back deck at my house, talking about our business and the various revenue models we had. It was a good start and had me interested in finding out what we were worth. Since I was now working from home and enjoying it, I wasn't overly thrilled about selling, but it was worth some time.
+
+Gathering info over few weeks, seeing our rev around $300k. Wondering if we would be over $1M.
+
+Answer in a few weeks, $750 + I work for them for $100 a year for a couple years. No deal. We talked briefly, but it wasn't a big enough number ot change our lives.
+
+The other big factor was we weren't sure we'd ever build something like this agian. So we declined.
+
+Not much happened over the next two years and we weren't even thinking about selling until we got an email in March of 2006. Red Gate software, our first client and a company that we've enjoyed working with over the five years we'd been in business inquired if we would consider selling.
+
+That immediately set off a debate. With Andy getting ready to leave his job, he didn't want to consider it. Brian had just switched jobs and was open, but I didn't think I wanted to sell. And we certainly didn't want the distraction. So we decided a conference call was in order. 
+
+Min price set at $2M, but we replied with $2.5M as the ballpark. Red Gate responded with a polite note that said over $1M they could better spend their money elsewhere and congrats to us for building a great company. We let it go and went on with the training business.
+
+Six months later we get another unsolicited email. This time Red Gate is asking for an option through the end of 2007. Their note said they didn't want to do it now, but in 2007 they'd be ready and can they get an option.
+
+Debate, 2 days of work lost, decide no option. It's buy or sell. - Why? Distraction, prevents investment, etc.
+
+A few weeks later we get another note. They want to talk with us still. apparently they're interested more than we thought. And they must have some reason. We get one a week or so later. Apparently SQL-Server-Performance, a longtime SQL Server site, was sold recently.
+
+So we talk and Red Gate wants a 4 month NDA to negotiate and they're interested. It's a funny conversation because we want to know a rough price, they don't want to give one, but it's a in important point. Finally I decide to be the bad guy (since we can't see each other, we're not sure who should be) and say that if they're thinking this is a $1M or $1.5M sale, we're not interested. They say they know our requirements and they want to talk.
+
+So we leave it with they'll come over in two weeks to talk and we'll all meet in Orlando. This is a huge distraction and it almost stops business for a couple weeks. Brian's teaching classes and busy around the country, but Andy and I are on the phone everyday and this is the #1 topic of conversation.
+
+Do we really want to sell?
+
+Lots of pluses and minuses. And slowly we shift positions. Brian wants to sell. He'd like some financial security and paying off his house makes that possible. It also means he can escape the corporate life, probably forever.
+
+For Andy, he likes trying to build this business and thinks we can grow to a $1.5M or better company, meaning we could be making lots of money by expanding our lines of business. But slowly over time, especially as he talks with his wife about a possible $600k, $700k, or more lump sum, he warms to the idea of selling. or at least becomes resigned.
+
+I'm initially thinking this is a nice chunk of money and it can setup my retirement as well as let my wife change careeers. I'm ok with going back to work for someone. But as we debate it and look at the possibilities for just growing the business, I shift more towards the "not sell" side.
+
+There's lots of debate on both sides of the issues. We have a few conference calls and look at the possibilities, trying to decide how to move forward. I'd like to continue to write my editorials and run the site, at least for a time, and I suspect that's possible. Brian is open to staying or going, as is Andy, but Andy's htinking to continue the training business and build it up.
+
+The debate is good and it's not sure how or if the three of us will move forward together. Lots of quetsions on the eve of a summit in Florida.
+
+Oct 27 - con call
+brief discussion with us, then get lawyers and RG involved.
+
+- Talk about list. They wany exclusive, want to be able to befirst to market. See DD as same list. I argue with they are separate and we argue a bit. IT's a tough point, but it's the main one for us
+
+
+Oct 30
+-----------------
+Next call 
+Possibilities on points of argument
+- No joint and several, 40% cap, put 40% into escrow.
+- Keep J&S - 90% cap of individual
+- #2 is ok
+
+seems like anything we proposed they agree on. We're getting there. The next thing to examine is that
+ - get advertising
+ - limit on aggregation
+ - 
+ For the most part we're through the contract, agreeing in principle to the terms between us. Getting to this point is a huge win for us, at least in terms of what we have been negotiating about. Getting law in Fl is a big deal and limiting liability is ok.
+
+ Down to details and the services agreement. 
+
+ Apparently I don't have much work to do on the contract anymore since we're in good shape. We do need to work on the services agreement.
+
+
+
+
+Nov 1- 
+copyright argument - fair, how to do it. I want to retain, they want ot be able to ublisha nd use. We argue back and forth with neither side understanding this, but eventually with some level-headedness from Andy, they give my copyright to my work.
+
+Finally contracts back from our lawyer to send over. Let the arguing begin.
+
+Nov 3 - Burned copies of the site and DBs for transmission to RG.
+
+Nov 6 - Domain issues. We were scheduled to close todya, but we're not close. Hopefully Friday. Working on transferring the domains. We tried one Fri, but it didn't work and we don't want delays because of this. 
+
+Worked with GoDaddy and figured it out. Decided to just setup a separate account and move the SSC and DD domains there, then just give that account to Red Gate at close. Sent our lawyer the account info. 
+
+Today I also fed-exed the bits to Fl.
+
+Nov 7 - too many changes. Man I'm tired of contracts. 
+
+Nov 8 - pissed off. This is taking too long and too many revisions. Talked with the lawyer, told him we wanted a call Fri to work things out or we weren't closing. Sent an email
+
+Nov 9 - got an email that seemed conciliatory from Neil. Got revisions from their side, not too many this time. Talked with the lawyer for a long time today, all 3 of us and went through all the points of concern. He was very amicable while we were slightly tourqued, but it seems we're close. He was expecting to talk with their lawyer after us and wrap things up and get us a contract tomorrrow to sign. We return it over the weekend and they wire money Monday. Hard to believe we're close
+
+Some emails after and everyone seems close. A few minor points we went over, but looking good.
+
+Nov 10 - Getting close. We're down to a couple points. Working on advertising commitments as well as getting the final language in the contract down. Sent my wiring instructions to the lawyer for the wire on Monday/Tues.
+
+Signature day. A minor panic with 1.021M allocated to goodwill, $107k to the non-compete and no mention of the other 1.02M. Some frantic calls to my CPA, tyhe corporate CPA who wasn't in today, and the lawyer. Eventually we got on the phone with our lawyer and talked thorugh it. No big deal, but a dropped call as I took my daughter to school didn't help ease my worries.
+
+Finally around 1:00 we agree we're good and the lawyer is setting things up. I head to the bank to get my account opened up.
+
+Post Sale -
+
+Calls with Dan
+
+The PASS Summit was a whirlwind that year. The site ran itself for a few days as I wandered around the Convention Center, getting congratulations from various people, questions about what would change, and jokes abourt retirement. The latter would have been nice, but this wasn't a headline making sale. It was a nice sum to help secure my future, but the idea that I could stop working was ludicrous.
+
+I returned home, refreshed, and ready to start moving forward with a new job, as a contract employee with Red Gate Software.
+
+At first nothing changed for me. I needed to continue managing the web site, writing, editing, and handling all of the administrative work that comes with a busy publication and community. I wasn't sure what I expected, but I somewhat thought that I'd have a new boss and he would start managing my workload. I'd assumed, always a poor way of working, that my new manager had performed plenty of due diligence on the business, and Red Gate had a "master plan" of how they might change things and move forward.
+
+It turns out that wasn't the case.
+
+Shortly after returning, I spent a few days on the phone, going through the parts of the site, the technical ways in which they worked, as well as the reasoning behind the various features. It was the kind of fact finding I'd have expected someone to do before they purchased the site, but that wasn't the case. This was an attempt to go through the site and gain a deeper understanding of how I viewed the business, and how I worked with the community.
+
+At the time there wasn't a large amount of sections to the site, and we concluded things quickly. Once again, I was on my own to manage the site and continue with business as usual.
+
+Post sale - Lockwood ranting.
+
+Stephen Davidson visiting.

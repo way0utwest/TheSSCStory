@@ -1,0 +1,15 @@
+3. The first 6 months
+
+In the beginning we wanted to generate a lot of content and have something behind the site. So we started converting our old content from Swynk.com since we all held the copyrights. Each of us was responsible for their own content and we moved that along, allowing us to release one or two of them as "new articles" each week in the newsletter. We also contacted a few of the old Swynk.com authors and asked for permission to reprint their articles. Most of them were happy to oblidge since it was old material and Andy and I spent spare moments at work converting articles from the Internet.com site, stripping out their includes and advertising code, and getting the articles back in basic HTML with our own header and footer.
+
+It was hard work, but we really wanted to compete with Internet.com. It seemed that most of their authors abandoned them, so we were really striving to get a good base of content setup and really show them a thing or two. That motivation of revenge for not being paid was strong.
+
+With about a hundred articles, we had a site and started telling everyone that we knew. I think we were all obsesssed with the traffic numbers and we frequently checked them to see how things were growing. I bet that first few months I checked a dozen times a day, just to get motivated to do a little more work. It was exciting to see a few dozen new people sign up each day and watch the pages views climb a few thousand at a time. In those early days, a couple of thousand page views a day were amazing.
+
+We went from 7,633 in March of 2001 to 26,330 in May, an amazing amount of growth. Over 300%, which came in handy as I manually stripped out and reformatted dozens of HTML articles. From there the growth went to 73,796 in May, nearly another 300% and suddenly we were seriously thinking that we were competing with Swynk.com. After all, we had a number of their top authors and quite a bit of content. 
+
+All this time, we'd divyed up tasks. I was doing lots of conversions while others were coding in features that we could use. Jon Winer came up with a great search feature sometime these first six months that I really wish we'd kept. But with the problems we had with search and wanting it to be a maintenance free facility, we tried a few commercial engines over the years instead.
+
+Jon's premise was that often you search for something and there are no results, or the results aren't that helpful. Or maybe they help, but you'd like to learn more. So he built a facility whereby you could "save" your search and it would run periodically, once a day I think, and look for new results. If there were new results, they would be emailed to you. If not, you wouldn't be bothered and could let this run forever, and it would notify you six months down the road if someone posted something related.
+
+Alas, when it broke down and we got too many complaints about search, we let it go and years later, still hadn't gotten back to it. The DTS package and job sat on the server, disabled, but a constant reminder to me that this was something that needed some attention.

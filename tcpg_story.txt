@@ -1,0 +1,135 @@
+Virtual Press : The Story of The Central Publishing Group
+
+1: Steve
+I'm not sure why I started writing. In high school I never liked writing, doing anything I could to get out of any projects that we had. In college I wrote a few stories, but I never spent that much time on them and it nagged me over time. In 1999 I moved to Denver for a new job at a startup and came alone while my wife stayed in Virginia trying to sell our house. For some reason, I got solicited as an author and decided to take one of the tricks I'd learned with SQL Server 6.5 and write a short article. I sent it to the SQL Server Journal in the UK and forgot about it.
+
+A few months later, the family safely out in Denver, I received a check for $150. At the time I was making $75k, so it wasn't a huge amount, but it was one of the coolest paychecks I'd ever received. In the same package were 2 copies of the journal and it was quite a thrill to see my name in print. I continued to write a few more articles over the next year, about 6 or 7, and received more checks, making a small, but very enjoyable new income.
+
+In 2000, the dot com boom was flying and work was busy. I found myself using Swynk.com to solve problems and get ideas. One of the first ones I got was a SourceSafe archive utility by Bill Wunder. While using the site, I realized that most of the tricks and techniques weren't that complex and I'd even thought of a few. It was then I noticed a "write for us" link and clicked on it. At the time, the payment schedule allowed for you to submit as many articles as you wanted and receiving tiered payments that were based on hits. Writing one a week could bring you up to $285 a month if you got a good amount of hits. I had my eye on an old 911 or 912, so this was my in. I sent in an article and got accepted and I was off.
+
+I didn't get the 911, but the rest is history.
+
+
+
+
+
+
+-- The QOD
+
+-- Best Of
+Driving home one night, Andy and I were having one of our regular phone calls talking about.
+
+--- ASP.NET
+
+
+
+-- Purchase ??
+
+
+
+-- The Magazine
+Sitting in a mall near Orlando, not sure which one, but one of the first meetings that the 3 of us had outside of PASS. I had a young daughter and she slept in a stroller while our wives had the other kids. We sat in the food court, our conversation interrupted because the power had just gone out in large sections of the NorthEast. I think Brian got a page or call about it since many states and businesses were affected by the blackout.
+
+We were looking to find alternative revenue streams. This had really become a business and the three of us were slightly worried about another market crash and advertising drying up. The fixed costs were fairly substantial at this point, over $1500 a month and we weren't willing to fund that ourselves for any amount of time.
+
+-- Fulltime Steve
+
+
+-- Database Daily
+
+
+-- We Are Family
+
+
+-- A Salesman
+Sales has always been a problem for us. Andy had done very well with Red Gate, but that was really his only client and he had no interest in finding more. Brian had made many contacts and spent some time on the selling thing, kind of taking it by default, but it really wasn't his thing either. I had personally made two sales, one to FMS and one to NGS Software, but they were soft sells and despite being pretty easy, made me uncomfortable and I'd stayed away.
+
+On top of all this there was one huge problem. Pricing.
+
+To be a good salesperson, you have to be able to ask for a fair price. And to get a fair price, you have to really be able to distance yourself from what you think is fair or acceptable to get to the value of the item you're selling. To the rookie salesperson you often consider what you'd want to pay for something and are afraid to ask for more than that. And you are a little nervous about negotiations, so the goal in many cases is to make a presentation that will be accepted right away without drawing things out.
+
+Which often means that you undercut yourself, not asking for enough money. This also seems to happen interviews, but that's another story. One sidenote on that: if you don't ask for it, you won't get it, so ask what you're worth, not what you were making or think they'll pay you.
+
+Since Brian put up the least resistance, he ended up as our salesperson by default. We'd tried a few friends over the years, but they never sold anything, probably not really thinking there was potential in out business to make money. I'm sure there are a few people kicking themselves now for passing those opportunities. So Brian struggled along, making calls as needed, selling to a group of vendors that he knew personally and was comfortable with, but we rarely got new clients, sticking with our 10 or 15 well known accounts.
+
+As has happened to all three of us many times, he tired of the process. Fortunately we were in a partnership with PASS and they were trying to help us grow the magazine. So they offered the group that supported them, Smith Bucklin, as a resource to help with sales. Andy and I met with the PASS board in January 2005 and they agreed to recommend that Smith Bucklin bundle the magazine advertising sales into the already existing sales they were doing for PASS and see if we could all succeed at growing our revenue.
+
+We got a proposal from Smith Bucklin a few weeks later and the three of us ended up on a conference call talking through it. As with most other things we've encountered in the business, we were extremely hesitant to give up control. So we made a counter proposal for a few items that we weren't comfortable with, mainly giving us the chance to sell to the accounts if the agreement was terminated as well as giving us the ability to cancel the contract. We finally signed the agreement sometime around March 2005 and were looking forward to some sales rolling in.
+
+And it was a miserable failure. I'm not quite sure who our salesman even was, as my contact was with a young lady in Chicago that I'd ping a couple weeks before closing an issue for ads. I got a few "maybes" for the May and July issues, but nothing ever came of it. I'm not sure that they ever even made a sale and by August we'd pretty much given up on them ever selling anything.
+
+About this time Brian was expecting his second child and really too busy to handle sales. Add in a new job that was eating up much of his time and he wasn't willing or even able to spend much time looking for new revenue. I suppose I could have tackled some of it and I think Andy and I even talked about it. We'd get some ideas, brainstorm on a few things to work towards and I'd get motivated. Then after a night's sleep, I'd dread even thinking about sending a "cold call" email. It never went anywhere.
+
+Luckily, as with many things, we had a friend. Or rather Brian's wife had a friend, who was married to a sales guy. Kevin Hadas worked for a newspaper in San Antonio, selling advertising for them and was looking to supplement his income a little. And he was interesting in helping out his wife's friend's husband, and who doesn't want to help out their wife? So Brian made a trip out to San Antonio and helped set up Kevin as a commission salesman for The Central Publishing Group.
+
+From the beginning Kevin was an interesting guy. I had only barely heard of him, just a short email introduction from Brian, and for a few weeks I mostly communicated with him through email. Like many relationships that I've made through the Internet, I had some notions of what he looked like, sounded like, etc. All totally unfounded and formed from email communications, but nevertheless I had them. I was thinking for some reason that he was a middle aged guy, balding, curly hair (who knows how I figured that out), and a veteran of the newspaper advertising business. When I met Kevin later that year, I was pleasantly surprised to find out that everything I thought was wrong.
+
+Then on the way to the gym one day my phone rang from some unknown area code. I answered and it was Kevin. A bit of a Southern accent, sounding younger than I expected, and very confused about the SQL Server business. We spent some time talking, introducing ourselves and me talking about our clients, how to handle some of them and listening to a few of Kevin's first contacts with them. He sounded very motivated and had lots of questions that would help him learn how to succeed.
+
+And he could talk. And talk and talk. Not necessarily a bad thing, and I certainly enjoyed the beautiful Colorado sunshine, standing outside my old 914, shorts and a t-shirt, in the parking lot of my gym. But I was also getting hungry and was hoping this would end soon so I could work out and get some lunch. But I wanted to make sure Kevin succeeded as well since I had no interest in getting stuck with selling.
+
+That conversation ended after about 45 minutes, but it was the first of many. Kevin and I continued to communicate fairly regularly over the phone and email. As with many things, his sales seemed to come in spurts, getting 2-3 in one week and then nothing for a couple months. That's probably the nature of the business, but it didn't serve to make me comfortable with a non-founder impacting our revenue. 
+
+I think the big thing that kept me confident in Kevin despite the slow start was an early win. We had one vendor with whom we had worked a long time. However this vendor was a pain to deal with, demanding things from us at times. Brian is pretty easy going, me a little less so, and Andy least of all, but all of us were fairly stubborn. We hated being told to do anything and pushing us was a sure way to end a business relationship. Fortunately no one had upset all three of us at the same time, so we had never dropped someone out of anger.
+
+Somehow Kevin really won this vendor over, placating them and keeping my phone quiet. That went a long way towards giving me confidence in his abilities. Add to that my ability to respond to queries with a "contact our salesman, Kevin" and I started to really enjoy the relationship.
+
+And it was profitable. Over the summer Kevin slowly accumulated sales, keeping our inventory moving, though not sold out. That was disappointing, but as with many things in this business, we were willing to give it some time. However the early successes were enough to convince us Kevin was worth further investment and we invited him to Grapevine in September 2005 to the PASS 2005 Community Summit.
+
+
+It was about this time that we made an interesting advertising decision. For most of the history of the World Wide Web and advertising in it, banner ads have been sold according to CPM. CPM stands for "cost per thousand" and bases a charge, or dollar amount, per 1000 impressions. Since the web allows for thousands of people to visit a page in a short period of time, the charge isn't high. We were selling at $8-10 CPM for many of our banner ads and rarely selling out. We had a rough idea of how many impressions we would be serving every month, so we had an idea of the inventory, but you never really would know the total until the end of the month.
+
+In the past Brian had typically sold someone like DBAssociates (anyone remember them?) a banner ad for 50,000 impressions at $10 CPM. Meaning that we'd server 50,000 banner ads for DBAssociates in some random, rotating fashion and charge them $500. As Brian would sell ads, I'd load them on the server, scheduling a certain number of impressions for each ad. This seemed to work out for awhile, but in 2005 we started to have issues.
+
+With Brian's on again, off again sales schedule, we tended to get either a glut of banner ads or a dearth. The dearth was a low revenue month, which we could deal with. The glut, however, caused my email box to fill up with complaints. Advertisers would either not buy enough impressions and they'd burn through them too quickly or we'd have too many advertisers scheduled and someone's banner wouldn't show up enough. So I'd get called or pinged and I'd have to figure out what was wrong, check the impressions, maybe ping Brian to sell them more, etc. All in all, a pain.
+
+When we brought Kevin on board, we soon realized how confusing this system was. With sales occuring at any time during the month, impressions expiring at different times, it was a hassle for both us and the vendors. Having some consistent method of ensuring their ads would appears was something that all our vendors were asking for. So Brian came up with a great scheme.
+
+Brian decided to divide our banner inventory into 20 slots. We would no longer worry about CPM, but would rather sell a month long advertising slot. We would have 20 banners running and vendors could be assured of coming up about once every 20 pages. We would rotate our own House ads in unsold slots and we'd allow vendors to buy up to 4 slots in any month. We had a painful month of converting our sold impressions over, but everyone was willing to work with us because it was a simpler system and was easier to track for everyone. And each slot was worth about 55,000 impressions during the summer of 2005.
+
+
+On Wednesday at the PASS Summit, September 2005, we finally met Kevin. Actually Brian already knew him, but it was the first meeting for Andy and I. Unlike any of my completely unfounded impressions, Kevin was a young guy, mid twenties looking, a boyish friendly face and an easygoing Southern manner. He had already worked his way around the exhibition hall, meeting many of the people that he had been communicating with previously, face to face.
+
+That night the four of us went out to dinner, trying to get 2-3 hours together to talk about the business, strategy for SQL Server 2005, and how to grow the company. We went to Tia's Mexican restaurant in Grapevine, mainly because I wanted to as my wife's name is Tia :). We sat down, ordered and got down to business. Kevin wanted to get a question answered before we got started, so he asked us.
+
+"What exactly is SQL Server?"
+
+We all three looked at each other for a moment before we started laughing. And he was dead serious. After having been selling advertising for us since April or May, he wasn't completely sure what SQL Server was. After apologizing for the outburst, the three of us made an effort to explain what a database was in layman's terms and SQL Server in particular. I'm not sure how good a job we did, but it proved something that I've suspected for a long time.
+
+You don't have to know anything about computers to sell them.
+
+Or products based on them. Kevin had been doing a great job and as he proved the next day as we walked around the exhibition hall with him, he could listen to the vendors hawk their products and look interested without understanding anything. Quoting statistics he'd gotten from the three of us as well as testimonials from other vendors, he had great success selling.
+
+He dragged the three of us around the hall, stopping to see those people that were advertising with us and saying hi. It's a chore that I really dislike, but he shielded us pretty well from the sales cycle and it wasn't too bad. And I'm sure it paid dividends as we had sold out 2/3 of our 2006 inventory by Nov 1, a month later.
+
+-- SQL Server 2005
+5 years, call from MS, no go-live
+The three of us had attended the PASS Community Summits in 2002, 2003, 2004, and 2005 together and a common theme at all of those summits was Yukon. In development for almost the entire existance of PASS, this was quite an undertaking by Microsoft. In early 2005, the decision was made to name the product SQL Server 2005, which cemented its release during that year.
+
+One of the changes to the development process for SS2K5 was in the test builds. Previously SQL Server and many Microsoft products had gone through 3 Beta releases before the Release to Manufacturing (RTM). However in October 2004, after 2 very drawn out Beta releases, Microsoft released a Community Technical Preview (CTP), or interim build. These were builds of the product between Beta 2 and the expected Beta 3, to get quicker feedback from testers and also generate more excitement in the product.
+
+This was followed in December by another CTP and still another in March. It was expected that these would continue every 2 months until June when Beta 3 would come out at TechEd. I think the expectation was that there would also be CTPs after Beta 3 up until the RTM, which most of us hoped for in September, but expected in November. Five years after the release of SQL Server 2000.
+
+Brian pinged us one day telling us that Tom Rizzo, program manager for SQL Server, wanted to have a conference call with us. So it was setup for around 11:00 Colorado time one day that week. As usual with my meetings few and far between, I forgot about the meeting and went to Office Max to get some supplies. Fortunately I was carrying my phone when it rang.
+
+Tom had wanted to talk with us about an announcement that was coming the following Monday. Microsoft had decided to forgo Beta 3 and continue with the CTPs only until RTM. Needless to say with everyone expecting there to be a Beta 3, this was a big announcement, and we were thrilled to get advance notice. As we talked, it became apparent that the real reason for contacting us ahead of time was to ensure that we wouldn't be writing anything unfavorable about the announcement. After all I had been pretty hard on Microsoft the year before when Beta 2 was released as a "public" beta, but only to MSDN subscribers. I had complained it wasn't really "public" and gotten quite a few irate emails from Microsoft on my editorial.
+
+Since I really liked the idea of having more builds to see changes in the product, I agreed, as we all did, that we thought it was a good idea and would present it as such. We also asked for two things. One was an interview with Tom and some testers to get their thoughts on the CTP process. I got that done soon after and it was the first of many Microsoft interviews that I did. Before we hung up, Tom asked if he could do something for us and we asked for TechEd admissions, which he agreed to. The three of us then attended TechEd in Orlando in June 2005, hosting one of the cabana areas for SQL Server and enjoying the show. The second was the chance to apply for a go-live production license based on the CTP code. More about that in a moment.
+
+I think that point was really the first time that I thought we'd made it as a SQL Server publisher. Despite our financial success, I'd always seen us as the underdog, not really a big competitor of the larger Database Journal, SearchSQLServer.com, etc. However with Microsoft proactively contacting us, and especially being concerned about what we might write, was a sign that we had some real influence and were worth dealing with. After that phone call I felt that if the company failed, got sold, etc., it was a real success for me personally.
+
+
+
+About a week or so later we were contacted in an email that went to 4 or 5 people about the go-live license. The support and marketing groups asked for some information about our environment, which I provided and sent back. It was a few weeks later we were contacted about a conference call to talk about moving the CTP code into production. Andy couldn't attend, so one morning Brian and I got on the phone with about 12 people from Microsoft. Some technical and some marketing.
+
+We started talking with them about our environment and they gave us some requirements or recommendations for going live. They asked about roll forward, roll back procedures, third party libraries, etc. and we walked through some parts of the web site and our processing for various things like sending mail, batch processes, etc. At some point we were explaining our business in more detail including the fact we sent out 100,000+ newsletters a day to DBAs.
+
+It got a little quiet after that and there were some concerns raised about the very, very public nature of our SQL Server. We ended the call with them saying they'd get back to us, but they never did. With things getting busy for me, I didn't really pursue it, but I have a theory on why they did not grant us a license.
+
+Barnes and Noble was a big SQL Server 2005 reference customer, as was the internal Microsoft operations for their own SAP and other applications. However these are all "private" installations. If the Barnes and Noble SQL Server 2005 database has problems, it doesn't show up to their customers in any perceptable way. The same thing if Microsoft's internal SAP installation hiccups, none of us know it. For all we know their servers get rebooted everyday to remain stable on Beta 2 or CTP code.
+
+However if SQLServerCentral.com were to upgrade to SQL Server 2005 and there was a database problem, thousands of people would know it.
+
+And quickly.
+
+At that time we were serving 45-50,000 pages a day during the week to 5-10,000 unique people. As I'd noticed with some ASP.NET errors, our business is very visible in the SQL Server world and any instability from SQL Server 2005 would generate some serious press. Even if it were our fault and not Microsoft's. For them I think it was a big gamble and with our limited resources, both hardware and people, they didn't want to roll those dice.

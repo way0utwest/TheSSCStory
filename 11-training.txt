@@ -1,0 +1,50 @@
+Training
+
+I can't remeber when Andy first proposed the trianing center, but I know that we had talked a lot about what we could do to move things forward and training was one of those items. I know because I didn't want to do it. I don't have stage fright anymore, but I just am not too big on teaching classes.
+
+Some of our first iterations were around renting a hotel room, shipping a whole bunch of laptops to some place and running a class. We worked our budgets around a $2k class and then tried to work expenses out of that to see what made sense and how many people we'd need to put in a class. An old boss of mine used to run a training center and said that 5 or 6 people determined if it was pastries or bagels. If 6 people came they'd get pastries, 5 got bagels and that was how they ran the training business.
+
+At some point we decided to open a center and went about planning.
+
+Nervous phone call in April about $100k
+
+Final money call at Starbucks, May 15th or thereabouts.
+
+First day of work
+
+The First Class
+We'd spent all this time planning and trying to figure out how to get the center open. Andy was working on the details of getting setup in the first couple weeks, but I was already nervous about our first class and wanted to start advertising to see if we could book people. Two people a month would break us even on rent and utilities and I wanted to see revenue come in.
+
+So one Friday afternoon I got a phone call from Brian. As usual my wife was on the phone, so I was hurrying out of the office as I answered. My voice carries and our little 10x14 office didn't support both of us on the phone. As I walked upstairs to get better reception, Brian told me he was in DC, the airport actually, and on his way home after a class. He'd been flown up there by his company to teach an SSIS class for the week and this was his 2nd or 3rd class.
+
+He'd been thinking and wanted to pitch an idea to us. His company had contracted with various training centers to give the classes. They training center basically paid a consulting fee, $8k, for the instructor and covered his T&E and then could rake in the money with a class. He'd had 2 sold out classes, 10 people, at $2200 each and was thinking we should get in on this. Someone had already been in touch with him for getting 6 people trained in Orlando and he was thinking we could schedule two classes, get 3 people in there and we'd be one person away from break even.
+
+I thought it was great and told him to pitch it in email to Andy and we could talk the next week. So the emails went round and we finally got on a call the next week and decided to move forward with two SSIS classes from Brian's company and then we'd schedule other classes later. This profit from one sold out class, or even a class with 6 or 7 people would take the pressure off Andy and start to cover our $5-6k investment in the center.
+
+So I set to work on a press release along with setting up SKUs and a landing page for the training center. We launched /training on Sunday, June 13th and we were all excited to have the press release go out the next day. As I got up to check email before taking kids to school, I saw that we'd booked two students already. And not one of Brian's expected ones. We got another the next day and we were thinking things were looking good. I was already counting on Brian to deliver 3 more, so at 6 were had paid for rent and lease for the month. Not a bad start.
+
+Over the next two weeks we pulled in 3 more registrations from other places, which was good since Brian's contact never responded back to him. That wasn't too thrilling for us since we could have sold out the class in two weeks, but it was a good start. So good in fact that we soon had to schedule another call.
+
+Our 3rd week of having open registrations someone contacted Andy about coming to Ohio to teach two SSIS classes to different groups of their company. He called me as I was walking into the 70-441 exam and distracted me with the news. We had a 15 minute call to debate the offer and try to decide what to do.
+
+As we saw it, there were three choices. First was just pass this to Brian's company, Idea, and take a referral fee. A couple thousand dollars for fielding a call or two would be a nice profit. The second option was book it ourselves, pay Idea the $8k and try to make a profit that way. We were thinking $10-12k for the class and that would leave us a small, $3k or so profit, which wasn't great and we'd have a bunch of work to get things coordinated.
+
+The last was the most appealing. Rewrite the class ourselves, deliver it and pay one of us $3k to go and clear a $7k or so company profit. The only catch was rewriting the class. Since the timeframe was Aug-Sept, we were both thinking that was our best option, but wanted to chew on it. A fourth option was licensing the content from Idea, so we tabled those and I went to take my exam, distracted when I needed to concentrate.
+
+Afterwards I decided to head down to the local Woodcraft for some pen making supplies. It's been a hobby of mine and I'd gotten an order for 20 pens, so I needed to get a few things. I decided to call Andy and ended up on a three way conference call, sitting among stains and gels, talking about how to move forward. A bunch of our conversation focused on Brian becoming a consultant, but we did decide to move forward with our own courseware and limit a single class to Idea.
+
+It seemed things were finally moving forward.
+
+The First Class
+We decided to do a short 4 hour class as a test for the classroom. We found some basic issues, forgetting "Use" statements in demos, minor permissions things on the images, questions about demos.
+
+We really focused on T-SQL changes and presenting the changes rather than evangelinzing what should be done. Apparently that was a minor complaint.
+
+
+#2 - overbooked. Actually by 2 because of the cart synchronization issues. We bought another desk, used our spare computer, and had the last guy use a laptop. Everyone was good about it and it didn't appear to be too crowded.
+
+Our first solo class, reporting services, was a tiny one the next week. 2 people, thinking 2 days was short, but they enjoyed the class.
+
+We made the decision then to look at expanding the site. Looked upstairs, 2 classes, considered MOC. Decided to move the wall because of the potential sale and book 12 person classes, stopping there.
+
+

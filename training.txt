@@ -1,0 +1,101 @@
+Training
+
+When I took the job as full-time guy at SQLServerCentral.com, I kind of assumed that I'd be doing it temporarily, maybe a year or so, before someone else would want to take over.
+
+Before I knew it, 18 months had passed by, Andy had enjoyed his job, Brian was looking to change jobs, but wanted more money than I was making, so it seemed like I'd be here for awhile.
+
+We'd continued to grow, albeit not at the amazing rate that would allow us to retire early. However in 2005 we could really imagine someone else working for the company. The problem was, what would they do?
+
+I had been pretty busy as the fulltime guy. It was a flexible schedule, but a contstant, 7 day a week one. Vacations required some writing and scheduling so someone else could follow in my footsteps easily and while I didn't have a lot of creativity or mental energy for other work, there weren't any other longer projects that could support another full time employee.
+
+
+In the winter of 2004-2005, Andy and I got to talking. He was getting tired of his day job at Hancock with all the corporate politics and the lack of professionalism from some of his co-workers. But he wasn't sure what to do. Consulting seems like an obvious direction, but that's not really his style and he'd still be working for someone else.
+
+Over the course of a few weeks, we talked about what else he could do. The training thing is interesting, after all, Mark Minasi seems to be doing great. Writing some books and traveling around to give training around the country.
+
+As we go through the logistics, it seems a hassle. PAcking up computers or laptops, reserving space, getting enough people to commit, etc. Thinking off all the little problems, not enough power, not the right tables, etc., made our heads spin a little. It seemed like quite the gamble.
+
+A few weeks later Andy came out to Denver for the winter PASS board meeting. We agreed to report to them the status of the magazine at the meeting since it was in Denver. Around that fiasco, he told me he'd priced out some space in Orlando and found some office space for $10-11 a foot. For about $1000 you could have a nice little office where he could train some small groups and also work, perhaps on software development, consulting, etc.
+
+With a few hours to kill on his last day, we decided to scope out some prices at Office Max. We looked at tables, chairs, and kind of had a general idea of what it would cost, but we didn't have any firm plans.
+
+Over the next few months we slowly continued to talk about it, but nothing serious until just before the PASS conference in September. We were heading to Dallas, Grapevine actually, for our 4th conference and it afforded us some great time to talk about the state of business.
+
+As we looked at our cash flow and savings, it seemed as though we were getting close to affording a second employee. Not quite, but close. As a surprise to me, Andy came up with a partial salary proposal where the company would pay part of his salary, he'd make do on less money, and look for some consulting work here and there.
+
+Our board meeting, if you can call the 3 of us sitting in the coffee shop of the Grapevine Gaylord hotel, we focused quite a bit on how all three of us could work for the company. It was interesting to see that the 3 of us all had a slightly different focus. I was enjoying the work-for-myself-at-home production stuff, which most people find boring, but I tend to gravitate towards. Brian was more interested in consulting and had actually been trying to get himself in a position to make the jump. Andy brought up the training center and how he'd like to get a timeline.
+
+That got us into budget and we tentatively agreed we could support $60k of his salary with $2k a month for rent and some startup money. It was a working number and a place to start working, assuming we'd get a little more cash flow with our monthly sales in 2006.
+
+The Waiting Game
+When we left the conference in October, Andy went back to work with a timeline in mind. With his company paying bonuses in February, he was looking to give his notice after that and begin to work for himself.
+
+Was that ever a long fall and winter?
+
+In our weekly conversations, I could hear the strain in his voice as he struggled to put up with the continued corporate growth of his company. They were abosorbed by the parent company and every Office Space sterotype started to come true. But that light at the end of the bonus kept him going.
+
+Finally bonuses arrived and I got a call that day, informing me the clock was ticking. We started to get serious on the plans with Andy beginning to put a budget together, talking specifics, and looking for an office.
+
+Four Little Offices
+
+It's kind of like the three little bears story where the girl finds the empty house in the forest. Not that Andy's a little girl, but he's like a wandering peasant in the Orlando forest looking for office space. After all, how hard can it be to find space.
+
+The search began in March and it became quite an adventure, albeit an informative one.
+
+Location #1
+We'd been thinking we needed around 800 square feet. That would give us a decent sized training room and a small office. It soon became apparent that Andy's vision of a facility was a little more ambitious.
+
+Since we didn't want to be a cookie cutter center like every other Microsoft ATEC center, we wanted the space to slightly differentiate us. Andy's idea was to find a space that allowed people to relax in comfort with better than average chairs and tables, small PCs with flat panels, a kitchen to keep coffee going, a fridge with sodas and ice, a sink to rinse things out and a dishwasher so he could serve lunch on real plates with real utensils. And of course, a small reception area. We soon realized that we'd need to be closer to 1000 square feet.
+
+If that weren't enough, he wanted restaurants within walking distance with a hotel so that trainees could get by without a car. With a few locations in mind, he set out on a search. He'd drive around and call the numbers on various "Space for lease" signs.
+
+And then he'd wait.
+
+It seemed like it took a week for anyone to call him back. As we spoke on the phone, I could hear him getting more and more annoyed. Even though his spiel improved, apparently 1000 square feet or less doesn't interest most of the building owners. It's just too little rent for the effort.
+
+Finally he scheduled a space in Altamonte Springs. He took pictures and sketched out the plan and emailed them along for our first real discussion. At least the first one that made it seem like we'd actually move forward on this. With 20MB or so of images to look through, I tried to get a sense of the building. It's hard in pictures to really understand how big or small something is, so I just kind of tried to go with the sketch and think about how we'd set it up.
+
+It seemed ok to me, but it was larger than expected, but probably not too bad. Some work would need to be done to build it out for training, removing some walls and moving others, but how much could that cost?
+
+I was hesitant about the size, so he continued to look elsewhere. He also visited a few local training centers, including the room his company used so we could get some ideas of the actual space needed. Lillian, the agent, kind of left things open with Andy as he continued to scout locations.
+
+Location #2 - Bob
+After a few more frustrating weeks, Bob called. Apparently Bob owns the building he showed Andy whereas most of the other places had some agent that was showing and negotiating. He was more willing to work with Andy and eager to show us a small space. His building seemed more suited to our size requirements and the two spaces he had both could work. Plus with water throughout the building because of former medical tenants, the kitchen seemed likely.
+
+We had diagrams with the existing offices and over a few days Andy and I played with the sketches, trying to figure out how we could divide up the space. Eventually we picked one that had a reception area and one large office along the wall. Turning the classroom sideways gave us a good space and we decided to ask for a quote on about 1000 square feet.  
+
+What came back was a surprise. About $12k in build out, much more than expected. Added to that was a fairly high rent of $18 a square foot, we came out over $22 with the build out. Way over budget when I was already getting concerned about the total.
+
+The Great Debate
+At this point I was getting concerned. Andy had  given notice to his company recently and had long ago decided to leave. We couldnt not setup the training center, but it seemed like we might really start draining money from the company. Especially if we launched classes in August and didn't book any revenue. Being conservative by nature, I had to think that we might get to January with no revenue coming in. If we were paying $2200 or more a month in rent we'd seriously be leaking cash.
+
+Andy and I really had a long debate about the space one night. I had lots of concerns and as we worked to see where we could cut costs, we both realized that the big issue was that the overall budget was getting me concerned. So concerned that I started to nitpick at every little thing.
+
+We soon changed topics and started to really examine the whole idea from the top down. What was I worried about? How much money did we need to make for me to feel comfortable? I didn't know. But the argument about the worst case, us losing $105k over a year with no revenue to make up for it, helped to frame the issue. I'd really be down $35k from my share of the company, as would Andy and Brian. It was something we'd talked about and it wasn't ideal, but it wasn't the end of the world. The website would still do well and the worst case would eat up our savings, but we'd still be in business. Andy even said he'd borrow $10 or $20k from his own savings to lend the company if it would help.
+
+I still think that large number scared me. I'm not used to making bets like that in areas that I can't control. I've paid more for houses, but it was on my terms. This was a bet on my friend and partner, but it would out of my control. And I struggled with it.
+
+After a couple of hours we'd talked it through and I felt better. Breaking it down into a $5k salary with a $2k rent allowance seemed more reasonable. Adding in the $20k of startup capital that could be spread out over 3 or 4 months was a little scary, but it didn't make me panicy. I finally agreed to just give up that budget and not worry any more. Unless Andy exceeded that number, I wouldn't worry about it.
+
+
+
+Location #3 - inexpensive, but not the best location. Also the kitchen is undoable.
+
+Lillian called back, which was rather unexpected. Apparently she'd calmed down a bit and they'd revisited the proposal from Andy. Their counter offer was a surprise, but after two months of wrestling with the issues, it didn't seem so bad.
+
+They wanted us to sign a 3 year lease and pay for the entire build out, $12k worth of improvements. That would come back to us at the end of the 3 years, however, if we paid out the lease. We had an window at the end of each year where we could terminate the lease. If we left after 1 year we'd get $4k back, 2 years and we'd see $8k. Not a bad deal, but not a great one and the idea of writing a $12k check for someone to hold did not thrill me.
+
+Location #4 - Bob calls back.
+Just when we thought that Bob was out of the picture, he called Andy back. One of his tenants wanted to downsize and we might be able to take some of his space. So Andy went to look and sent a diagram over one late night.
+
+This was the first space that really seemed workable to me. And it was smaller, saving us a little rent. Basically a rectangle with one corner having an office, it seemed to meet our needs, it could have a small kitchen or at least part of one, and was in a good location.
+
+As we talked about it, Andy was less than thrilled since he was worried that his 12 person class would not fit in there. My thought was that maybe we should downsize to 8 people and if we needed more, we could fit a few in. Since I didn't expect that we'd often get 12 people there, I thought a smaller investment might be better.
+
+The initial estimate that came back was a little high, but it had a partial kitchen and it was less than we'd budgeted for the facility.
+
+
+Con call - getting on the same page with the three of us and finalizing the budget. Office space seems ok, but small. Go with it, if we need more space, it won't matter. We'll have the money. Same for PCs. Surprisingly I'm the only one wanting to borrow money for computers instead of spending out savings.
+
+
+
